@@ -12,4 +12,6 @@ function showResult(){
    name + " is FAIL";
  }
 
-}
+if(marks >= 90){
+  grade = "A";
+}}
